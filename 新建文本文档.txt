@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <title></title>
+	</head>
+	<body>
+	<h1>contents</h1>
+	<img src="images/sinan.jpg" alt="My picture">
+	<a herf="web" target="_blank">content</a>
+	<p>content</p>
+	<ul>/<ol>
+	   <li>contents</li>
+	</ul>/<ol>
+	</body>
+	</html>
+
+Start tag-attribute-contents-end tag
+
+<a herf="website" target="_blank"> name
+</a>
+
+Linking to style sheet
+Selector{
+	property:value;
+}
+body{
+	colour:red
+	font-family: Times, serif
+	font-size:24px
+	line-heright: 1.6
+	letter-spacing: 10px
+	background-colour: red
+}
